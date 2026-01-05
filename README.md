@@ -17,13 +17,14 @@ projects and turning ideas into functional solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maheredd&show_icons=true&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Maheredd&show_icons=true&theme=github_dark" />
 
-<img src="https://streak-stats.demolab.com?user=Maheredd&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Maheredd&theme=github-dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheredd&layout=compact&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheredd&layout=compact&theme=github_dark" />
 
 </div>
+
 
 ## 🌍 Let's Connect
 
