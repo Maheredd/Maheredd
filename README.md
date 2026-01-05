@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi there, I'm Mahesh G 👋<br><br>I'm a Full-Stack Web Developer (Fresher) and an MCA postgraduate student with a strong interest in
-building scalable web applications and clean user interfaces. I also work on AI/ML-based projects,
-exploring how intelligent models can be integrated into real-world web applications. I enjoy
-learning by building projects and turning ideas into functional solutions.
-.<br><br>💻 About Me<br><br>💼 Currently focused on full-stack web development through academic and personal projects, while also working on AI/ML-based applications.<br>🌱 Actively learning modern web technologies, backend architecture, authentication mechanisms, and machine learning concepts.
+Hi there, I'm Mahesh G 👋<br><br>I’m an MCA postgraduate student with a strong interest in building scalable web applications and
+clean user interfaces. I work on web development and AI/ML-based projects, exploring how
+intelligent models can be integrated into real-world applications. I enjoy learning by building
+projects and turning ideas into functional solutions.
+<br><br>💻 About Me<br><br>💼 Currently focused on full-stack web development through academic and personal projects, while also working on AI/ML-based applications.<br>🌱 Actively learning modern web technologies, backend architecture, authentication mechanisms, and machine learning concepts.
 <br>🚀 My goal is to grow as a full-stack developer and build reliable, user-centric web applications, integrating intelligent features where applicable.
 
 ## 🌐 Socials:
