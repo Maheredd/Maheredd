@@ -20,7 +20,9 @@ projects and turning ideas into functional solutions.
 
 - 💬 Feel free to reach out if you're interested in collaborating or just want to chat about tech.
 
-[LinkedIn](https://www.linkedin.com/in/mahesh-g-0396a72b6) • [Connect](https://www.linkedin.com/in/mahesh-g-0396a72b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-g-0396a72b6)
+[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-g-0396a72b6)
+
 
 Thank you for visiting my profile! 🚀
 
