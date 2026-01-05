@@ -16,13 +16,14 @@ projects and turning ideas into functional solutions.
 ![](https://nirzak-streak-stats.vercel.app/?user=Maheredd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheredd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌍 Let’s Connect
+## 🌍 Let's Connect
 
-💬 Feel free to reach out if you’re interested in collaborating on projects or just want to chat about technology.
+- 💬 Feel free to reach out if you're interested in collaborating or just want to chat about tech.
 
-🔗 LinkedIn: https://www.linkedin.com/in/mahesh-g-0396a72b6
+[LinkedIn](https://www.linkedin.com/in/mahesh-g-0396a72b6) • [Connect](https://www.linkedin.com/in/mahesh-g-0396a72b6)
 
 Thank you for visiting my profile! 🚀
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Maheredd&icon=0&color=0)](https://visitcount.itsvg.in)
 
