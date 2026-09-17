@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi there, I'm Mahesh G 👋<br><br>I’m an MCA postgraduate student with a strong interest in building scalable web applications and
-clean user interfaces. I work on web development and AI/ML-based projects, exploring how
-intelligent models can be integrated into real-world applications. I enjoy learning by building
-projects and turning ideas into functional solutions.
+Hi there, I'm Mahesh G 👋<br><br>AI-integrated full-stack developer with hands-on experience building production-grade systems in Python, Java, React, and
+Flask. Built an AI-driven cloud security monitoring platform processing 10K+ logs/day with real-time anomaly detection,
+and a CNN-based computer vision system achieving 90%+ classification accuracy. Delivered client-facing features during a
+web development internship, resolving 15+ production bugs. Seeking an entry-level Software Developer role.
 <br><br>💻 About Me<br><br>💼 Currently focused on full-stack web development through academic and personal projects, while also working on AI/ML-based applications.<br>🌱 Actively learning modern web technologies, backend architecture, authentication mechanisms, and machine learning concepts.
 <br>🚀 My goal is to grow as a full-stack developer and build reliable, user-centric web applications, integrating intelligent features where applicable.
 
